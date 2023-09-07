@@ -8,9 +8,6 @@
 
 🤝 Let's Connect:
 
- <a href="https://linkedin.com/in/marianagyby/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/marianagyby/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marian.agyby1011@gmail.com)
 
