@@ -8,6 +8,7 @@ Data Scientist | Passionate about Turning Data into Insights
 📈 Are you looking for a data-driven problem solver with a strong foundation in data science and machine learning? I'm a recent graduate from the University of British Columbia's [Master of Data Science](https://github.com/UBC-MDS) program, and I'm enthusiastic about leveraging data to drive informed decision-making and find actionable insights for modern problems.
 
 🤝 Let's Connect:
+
  <a href="https://linkedin.com/in/marianagyby/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p>
   
@@ -29,9 +30,9 @@ Data Scientist | Passionate about Turning Data into Insights
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Altair](https://img.shields.io/badge/Altair-%23F98C44.svg?style=for-the-badge&logo=Altair&logoColor=white)
-![ggplot](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=for-the-badge&logo=ggplot2&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![Altair](https://img.shields.io/badge/Altair-%23F98C44.svg?style=flat-square&logo=Altair&logoColor=white)
+![ggplot](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=flat-square&logo=ggplot2&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
@@ -49,6 +50,7 @@ Data Scientist | Passionate about Turning Data into Insights
 #### 💡 Currently Learning
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <details>
@@ -64,7 +66,7 @@ Data Scientist | Passionate about Turning Data into Insights
  <br>
 </details>
   
-<div align="center">Thank you for visiting my GitHub!</div>
+<div align="center">Thank you for visiting my profile!</div>
 
 <!--
 **marianagyby/marianagyby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
