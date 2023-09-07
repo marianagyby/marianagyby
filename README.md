@@ -1,9 +1,8 @@
 ## 👋 Hello, I'm Marian!
 
 🎓 Recent Graduate from UBC's Master of Data Science Program
-🌍 Based in Calgary, Canada
 
-Data Scientist | Passionate about Turning Data into Insights
+🌍 Based in Calgary, Canada
 
 📈 Are you looking for a data-driven problem solver with a strong foundation in data science and machine learning? I'm a recent graduate from the University of British Columbia's [Master of Data Science](https://github.com/UBC-MDS) program, and I'm enthusiastic about leveraging data to drive informed decision-making and find actionable insights for modern problems.
 
@@ -29,8 +28,8 @@ Data Scientist | Passionate about Turning Data into Insights
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-![Altair](https://img.shields.io/badge/Altair-%23F98C44.svg?style=for-the-badge&logo=Altair&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Altair](https://img.shields.io/badge/Altair-%23F98C44.svg?style=for-the-badge&logo=Altair&logoColor=white)
 ![ggplot](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=for-the-badge&logo=ggplot2&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=for-the-badge&logo=RStudio&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
