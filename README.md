@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Marian!
+## 👋 Hello, I'm Marian!
 
 🎓 Recent Graduate from UBC's Master of Data Science Program
 🌍 Based in Calgary, Canada
@@ -14,7 +14,7 @@ Data Scientist | Passionate about Turning Data into Insights
   
 ----
 
-#### 🔍 My Skills
+### 🔍 My Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
@@ -30,8 +30,8 @@ Data Scientist | Passionate about Turning Data into Insights
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Altair](https://img.shields.io/badge/Altair-%23F98C44.svg?style=for-the-badge&logo=Altair&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![ggplot](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=for-the-badge&logo=ggplot2&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=for-the-badge&logo=RStudio&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
@@ -47,10 +47,9 @@ Data Scientist | Passionate about Turning Data into Insights
 ![Amazon EC2 Badge](https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=for-the-badge)
 ![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)
 
-#### 💡 Currently Learning
+### 💡 Currently Learning
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <details>
