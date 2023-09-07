@@ -30,7 +30,7 @@ Data Scientist | Passionate about Turning Data into Insights
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![Altair](https://img.shields.io/badge/Altair-%23F98C44.svg?style=flat-square&logo=Altair&logoColor=white)
 ![ggplot](https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=flat-square&logo=ggplot2&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
