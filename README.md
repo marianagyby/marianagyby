@@ -4,7 +4,7 @@
 
 🌍 Based in Calgary, Canada
 
-📈 Are you looking for a data-driven problem solver with a strong foundation in data science and machine learning? I'm a recent graduate from the University of British Columbia's [Master of Data Science](https://github.com/UBC-MDS) program, and I'm enthusiastic about leveraging data to drive informed decision-making and find actionable insights for modern problems.
+📈 Are you looking for a data-driven problem solver with a strong foundation in data science and machine learning? I'm a recent [Master of Data Science](https://github.com/UBC-MDS) graduate from the University of British Columbia, and I'm passionate about using data to drive informed decision-making and uncover actionable insights for modern problems.
 
 🤝 Let's Connect:
 
