@@ -52,7 +52,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SAS](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=sas&logoColor=white)
+![SAS](https://img.shields.io/badge/sas-%230db7ed.svg?style=for-the-badge&logo=sas&logoColor=white)
 
 <details>
 <summary><h3>GitHub Stats 📊</h3></summary>
