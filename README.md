@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Marian!
+<!--## 👋 Hello, I'm Marian!
 
 🎓 Recent Graduate from UBC's Master of Data Science Program
 
@@ -68,6 +68,7 @@
 </details>
   
 <div align="center">Thank you for visiting my profile!</div>
+-->
 
 <!--
 **marianagyby/marianagyby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
